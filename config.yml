@@ -1,0 +1,72 @@
+baseURL: 'https://leyihuang.github.io/'
+title: ♡ Leyi Huang ♡
+theme: hugo-theme-ladder
+license: MIT
+licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
+description: 'A wave-like person'
+homepage: 'https://hugo-ladder.pages.dev'
+defaultContentLanguage: 'en'
+googleAnalytics: G-4WXJ5TEK2S
+paginate: 10
+menu:
+  main:
+    - name: Blog
+      url: /blog
+      weight: 1
+    - name: Tags
+      url: /tags
+      weight: 2
+    - name: Archive
+      url: /archives
+      weight: 3
+    - name: Guestbook
+      url: /guestbook
+      weight: 4
+    - name: Resume
+      url: /resume.pdf
+params:
+  brand: HOME
+  avatarURL: /images/avatar.jpg
+  author: Leyi Huang
+  authorDescription: A wave-like person
+  favicon: /images/avatar.jpg
+  options:
+    showDarkMode: true
+    enableImgZooming: true
+  darkModeTheme: data-dark-mode
+  #darkModeTheme: icy-dark-mode
+  comments:
+    giscus:
+      enable: true
+      repo: LeyiHuang/LeyiHuang.github.io
+      repo_id: R_kgDOIr1b8A
+      category: General
+      category_id: DIC_kwDOIr1b8M4CTSeC
+      mapping: pathname
+      position: top
+      lang: en # pick a language from https://github.com/giscus/giscus/tree/main/locales
+    utteranc:
+      enable: false
+      repo: guangzhengli/blog-comments
+      issueTerm: pathname
+  analytics:
+    google:
+      SiteVerificationTag: xxx
+    umami:
+      enable: true
+      website_id: 2320eaa6-a90b-471c-b6ca-e79dadde8c4c
+      url: https://umami-ochre-nu.vercel.app/hugo-ladder.js
+  guestbook:
+    title: Guestbook
+    description: Leave a comment below. It could be anything –- question, appreciation, information, or even humor.
+  social:
+    - name: GitHub
+      pre: >-
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+        
+      url: 'https://www.linkedin.com/in/leyi-huang-b813101a3/'
+taxonomies:
+  series: series
+  tag: tags
+
+enableEmoji: true
