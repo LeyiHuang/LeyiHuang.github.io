@@ -1,2 +1,2 @@
-Hi, my name is **Leyi**. I moved from Hangzhou to San Diego for college. Then I went to graduate school in Bay Area. Hangzhou is my hometown, where my family lives. San Diego is the city where I learned how to pay rent, housing insurance, electricity, and gas. A fun fact: I didn't know that I should pay for electricty and gas until I was almost got kicked out of my apartment.  I love sketching 🖋️ and playing with my cats Gulu and Mimi 🐱. 
+Hi, my name is **Leyi**. I moved from Hangzhou to San Diego for college. Then I went to graduate school in Bay Area. In my spare time, I love pen sketching 🖋️ and playing with my cats Gulu and Mimi 🐱. 
 
