@@ -22,8 +22,6 @@ menu:
     - name: Guestbook
       url: /guestbook
       weight: 4
-    - name: Resume
-      url: /resume.pdf
 params:
   brand: HOME
   avatarURL: /images/avatar.jpg
