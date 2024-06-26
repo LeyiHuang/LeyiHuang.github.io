@@ -8,7 +8,7 @@ featured: true
 
 Welcome to my blog!
 
-![image](/images/welcome_photo.jpeg)
+![image](/images/welcome_photo.png)
 
 
 
